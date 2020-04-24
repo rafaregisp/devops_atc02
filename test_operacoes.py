@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.rafael.operacoes Import Opercoes
+from com.rafaregisp.operacoes Import Opercoes
 
 class testOperacoes (TestCase):
 
